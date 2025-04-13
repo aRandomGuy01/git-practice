@@ -7,3 +7,7 @@ int main() {
 
  saasdasdas
 
+
+void hello() {
+    printf("hello\n");
+}
